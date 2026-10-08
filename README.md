@@ -3,8 +3,8 @@
 ##Identitas
 
 - **Nama:** Rahmat Hamonangan Nasution
-- **NIM:** [isi NIM]
-- **Kelas:** [isi kelas]
+- **NIM:** 4253250053
+- **Kelas:** PSIK 25B
 - **Mata Kuliah:** Pemrograman Web
 
 ##Deskripsi
