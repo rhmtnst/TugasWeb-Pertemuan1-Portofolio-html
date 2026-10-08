@@ -1,13 +1,13 @@
 # Tugas Rutin 1 — Landing Page Pribadi
 
-## Identitas
+##Identitas
 
 - **Nama:** Rahmat Hamonangan Nasution
 - **NIM:** [isi NIM]
 - **Kelas:** [isi kelas]
 - **Mata Kuliah:** Pemrograman Web
 
-## Deskripsi
+##Deskripsi
 
 Project ini merupakan tugas rutin Pertemuan 1 berupa pembuatan landing page pribadi menggunakan HTML.
 
